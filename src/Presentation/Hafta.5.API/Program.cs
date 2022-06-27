@@ -13,8 +13,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-ll
-    fgjfhj
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
